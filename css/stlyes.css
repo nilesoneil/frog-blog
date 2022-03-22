@@ -1,0 +1,15 @@
+.start {
+  font-style: bold;
+  text-align: center;
+  color: green;
+}
+
+.important{
+  color: green;
+
+}
+
+.me {
+  font-size: 12;
+  color: gray;
+}
